@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 4.625em;
+  margin: 50px auto 50px auto;
+  color: #66BFBF;
+  /*line-height: 2;*/
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.title {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding: 5px;
+  margin: 5px;
+  padding-top: 50px;
+}
+
+.middle-container {
+  text-align: center;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  text-align: center;
+  padding: 15px;
+  margin: auto;
+  background-color:#66BFBF;
+  color: #11999E;
+}
+.end{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+
+}
+
+.dp {
+  width: 200px;
+  height: 200px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  /*line-height: 2;*/
+}
+.photography{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.travelling{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+p{
+  color: #40514E;
+  line-height: 2;
+}
+hr{
+  border: 6px dotted;
+  border-bottom: none;
+  width: 4%;
+  color: #EAF6F6;
+  margin: 100px auto;
+}
+.btn{
+  background-color: #11999E;
+  color: white;
+  text-align: center;
+  padding: 10px 24px;
+  border-radius: 12px;
+  margin: auto;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contmsg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+a{
+  color: #11999E;
+  padding: 15px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
